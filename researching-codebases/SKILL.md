@@ -1,9 +1,9 @@
 ---
-name: code-audit
-description: Orchestrate comprehensive codebase research focusing on identifying and explaining relevant code with precise file and line references.
+name: researching-codebases
+description: Orchestrate comprehensive codebase research focusing on identifying and explaining relevant code with precise file and line references. This skill should be used when the user asks to "research" code or a codebase.
 ---
 
-# Code Audit
+# Researching Codebases
 
 ## Overview
 

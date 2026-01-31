@@ -1,5 +1,5 @@
 ---
-name: refactor-clean
+name: refactoring-code
 description: Refactor and clean code using SOLID principles, clean code patterns, and modern best practices. Use when the user asks to refactor code, improve code quality, fix code smells, apply design patterns, or make code more maintainable.
 ---
 

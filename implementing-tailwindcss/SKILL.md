@@ -1,5 +1,5 @@
 ---
-name: tailwindcss
+name: implementing-tailwindcss
 description: Tailwind CSS v4 patterns for styling Next.js applications. This skill should be used when styling components, creating responsive layouts, implementing design systems, or working with custom utilities. Covers v4-specific CSS-first configuration with @theme/@import/@utility directives, design tokens, responsive patterns, mobile-first design, and Atlas-specific conventions including 8px grid spacing system and accessibility patterns.
 ---
 
