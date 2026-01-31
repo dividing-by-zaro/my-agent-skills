@@ -11,8 +11,6 @@ A collection of custom skills for agents (specifically Claude Code).
 - `researching-codebases` – Comprehensive codebase research with precise file and line references
 
 ## Designed by others
-- `refactoring-code` – Code refactoring using SOLID principles and clean code patterns
-  - Created by [Seth Hobson](https://github.com/wshobson), sourced from [agents/plugins/code-refactoring](https://github.com/wshobson/agents/tree/main/plugins/code-refactoring/commands)
 - `implementing-tailwindcss` – Tailwind CSS v4 patterns for Next.js applications
   - *Unfortunately, I can't remember where I found this skill. If you authored this skill and would like attribution, please reach out to me.*
 - `creating-agent-skills` – Guide for creating effective skills

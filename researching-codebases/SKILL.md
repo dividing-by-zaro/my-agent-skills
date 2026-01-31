@@ -1,6 +1,6 @@
 ---
 name: researching-codebases
-description: Orchestrate comprehensive codebase research focusing on identifying and explaining relevant code with precise file and line references. This skill should be used when the user asks to "research" code or a codebase.
+description: Orchestrate comprehensive codebase research focusing on identifying and explaining relevant code with precise file and line references. Use this skill when the user asks to "research" code or a codebase before making a significant change. Typical triggers include requests like "research how X works before I change it", "find all the code involved in Y", "map out the auth flow", "what would I need to touch to implement Z", or "understand the payment system before refactoring". This skill goes deeper than Explore() — use it when the user needs a full inventory of relevant locations, dependencies, and interactions to confidently plan a codebase change.
 ---
 
 # Researching Codebases
